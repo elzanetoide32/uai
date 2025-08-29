@@ -1,0 +1,11 @@
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.Form1.resources
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\bin\Debug\Encuesta.exe.config
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\bin\Debug\Encuesta.exe
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\bin\Debug\Encuesta.pdb
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.exe
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.pdb
+C:\Users\lcgbr\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.exe.config

@@ -1,0 +1,11 @@
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.exe.config
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.exe
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.pdb
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.Form1.resources
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.exe
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.pdb
+C:\Users\lcgbr\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.exe.config
