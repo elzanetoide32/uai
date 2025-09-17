@@ -1,0 +1,36 @@
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FormABM.resources
+C:\Users\Gonza\Desktop\UAI\1er año\Programación I\C#\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FormABM.resources
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3.resources
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\lcgbr\Downloads\TP#1\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
