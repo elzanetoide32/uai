@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\bin\Debug\cola.exe.config
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\bin\Debug\cola.exe
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\bin\Debug\cola.pdb
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\obj\Debug\cola.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\obj\Debug\cola.Form1.resources
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\obj\Debug\cola.Properties.Resources.resources
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\obj\Debug\cola.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\obj\Debug\cola.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\obj\Debug\cola.exe
+C:\Users\Navegador\source\repos\WindowsFormsApp1\cola\obj\Debug\cola.pdb
