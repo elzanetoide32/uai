@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\bin\Debug\prueva_parcial.exe.config
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\bin\Debug\prueva_parcial.exe
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\bin\Debug\prueva_parcial.pdb
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\obj\Debug\prueva_parcial.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\obj\Debug\prueva_parcial.Form1.resources
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\obj\Debug\prueva_parcial.Properties.Resources.resources
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\obj\Debug\prueva_parcial.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\obj\Debug\prueva_parcial.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\obj\Debug\prueva_parcial.exe
+C:\Users\Navegador\source\repos\prueva_parcial\prueva_parcial\obj\Debug\prueva_parcial.pdb

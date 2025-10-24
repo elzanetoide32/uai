@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\prueva_parcial\act33\bin\Debug\act33.exe.config
+C:\Users\Navegador\source\repos\prueva_parcial\act33\bin\Debug\act33.exe
+C:\Users\Navegador\source\repos\prueva_parcial\act33\bin\Debug\act33.pdb
+C:\Users\Navegador\source\repos\prueva_parcial\act33\obj\Debug\act33.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\prueva_parcial\act33\obj\Debug\act33.Form1.resources
+C:\Users\Navegador\source\repos\prueva_parcial\act33\obj\Debug\act33.Properties.Resources.resources
+C:\Users\Navegador\source\repos\prueva_parcial\act33\obj\Debug\act33.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\prueva_parcial\act33\obj\Debug\act33.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\prueva_parcial\act33\obj\Debug\act33.exe
+C:\Users\Navegador\source\repos\prueva_parcial\act33\obj\Debug\act33.pdb
