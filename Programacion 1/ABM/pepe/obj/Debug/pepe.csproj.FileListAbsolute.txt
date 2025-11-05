@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\pepe\pepe\bin\Debug\pepe.exe.config
+C:\Users\Navegador\source\repos\pepe\pepe\bin\Debug\pepe.exe
+C:\Users\Navegador\source\repos\pepe\pepe\bin\Debug\pepe.pdb
+C:\Users\Navegador\source\repos\pepe\pepe\obj\Debug\pepe.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\pepe\pepe\obj\Debug\pepe.btnUp.resources
+C:\Users\Navegador\source\repos\pepe\pepe\obj\Debug\pepe.Properties.Resources.resources
+C:\Users\Navegador\source\repos\pepe\pepe\obj\Debug\pepe.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\pepe\pepe\obj\Debug\pepe.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\pepe\pepe\obj\Debug\pepe.exe
+C:\Users\Navegador\source\repos\pepe\pepe\obj\Debug\pepe.pdb
