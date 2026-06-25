@@ -1,0 +1,14 @@
+C:\Users\lcgbr\source\repos\cocineros\cocineros\bin\Debug\cocineros.exe.config
+C:\Users\lcgbr\source\repos\cocineros\cocineros\bin\Debug\cocineros.exe
+C:\Users\lcgbr\source\repos\cocineros\cocineros\bin\Debug\cocineros.pdb
+C:\Users\lcgbr\source\repos\cocineros\cocineros\bin\Debug\clases.dll
+C:\Users\lcgbr\source\repos\cocineros\cocineros\bin\Debug\clases.pdb
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.csproj.Up2Date
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.exe
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.pdb
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.exe.config
+C:\Users\lcgbr\source\repos\cocineros\cocineros\obj\Debug\cocineros.Form1.resources
