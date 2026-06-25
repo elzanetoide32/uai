@@ -1,0 +1,14 @@
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\bin\Debug\Complejo_Deport.exe.config
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\bin\Debug\Complejo_Deport.exe
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\bin\Debug\Complejo_Deport.pdb
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\bin\Debug\Clases.dll
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\bin\Debug\Clases.pdb
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo_Deport.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo_Deport.Form1.resources
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo_Deport.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo_Deport.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo_Deport.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo.1BF08FFC.Up2Date
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo_Deport.exe
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo_Deport.pdb
+C:\Users\lcgbr\source\repos\Complejo_Deport\Complejo_Deport\obj\Debug\Complejo_Deport.exe.config
