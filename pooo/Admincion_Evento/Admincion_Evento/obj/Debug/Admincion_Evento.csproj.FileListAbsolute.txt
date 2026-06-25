@@ -1,0 +1,14 @@
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\bin\Debug\Admincion_Evento.exe.config
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\bin\Debug\Admincion_Evento.exe
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\bin\Debug\Admincion_Evento.pdb
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\bin\Debug\Negocio.dll
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\bin\Debug\Negocio.pdb
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincion_Evento.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincion_Evento.Form1.resources
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincion_Evento.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincion_Evento.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincion_Evento.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincio.C17D5EDF.Up2Date
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincion_Evento.exe
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincion_Evento.pdb
+C:\Users\lcgbr\source\repos\Admincion_Evento\Admincion_Evento\obj\Debug\Admincion_Evento.exe.config
