@@ -1,0 +1,10 @@
+C:\Users\leona\source\repos\Delegados1\Delegados1\bin\Debug\Delegados1.exe.config
+C:\Users\leona\source\repos\Delegados1\Delegados1\bin\Debug\Delegados1.exe
+C:\Users\leona\source\repos\Delegados1\Delegados1\bin\Debug\Delegados1.pdb
+C:\Users\leona\source\repos\Delegados1\Delegados1\obj\Debug\Delegados1.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Delegados1\Delegados1\obj\Debug\Delegados1.Form1.resources
+C:\Users\leona\source\repos\Delegados1\Delegados1\obj\Debug\Delegados1.Properties.Resources.resources
+C:\Users\leona\source\repos\Delegados1\Delegados1\obj\Debug\Delegados1.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\Delegados1\Delegados1\obj\Debug\Delegados1.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Delegados1\Delegados1\obj\Debug\Delegados1.exe
+C:\Users\leona\source\repos\Delegados1\Delegados1\obj\Debug\Delegados1.pdb
