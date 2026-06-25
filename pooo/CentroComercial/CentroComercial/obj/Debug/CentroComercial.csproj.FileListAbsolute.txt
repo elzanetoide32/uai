@@ -1,0 +1,13 @@
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\bin\Debug\CentroComercial.exe.config
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\bin\Debug\CentroComercial.exe
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\bin\Debug\CentroComercial.pdb
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\bin\Debug\clases.dll
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\bin\Debug\clases.pdb
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.Form1.resources
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroCo.51484124.Up2Date
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.exe
+C:\Users\lcgbr\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.pdb

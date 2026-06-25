@@ -1,0 +1,6 @@
+C:\Users\lcgbr\source\repos\Biblioteca\clases\bin\Debug\clases.dll
+C:\Users\lcgbr\source\repos\Biblioteca\clases\bin\Debug\clases.pdb
+C:\Users\lcgbr\source\repos\Biblioteca\clases\obj\Debug\clases.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\Biblioteca\clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\Biblioteca\clases\obj\Debug\clases.dll
+C:\Users\lcgbr\source\repos\Biblioteca\clases\obj\Debug\clases.pdb
