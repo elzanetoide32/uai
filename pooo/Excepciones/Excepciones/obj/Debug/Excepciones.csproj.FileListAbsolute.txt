@@ -1,0 +1,10 @@
+C:\Users\Navegador\AppData\Local\Temporary Projects\Excepciones\bin\Debug\Excepciones.exe.config
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.Form1.resources
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.pdb

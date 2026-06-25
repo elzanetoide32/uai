@@ -1,0 +1,20 @@
+C:\Users\Navegador\AppData\Local\Temporary Projects\Excepciones\bin\Debug\Excepciones.exe.config
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.Form1.resources
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+d:\documents\visual studio 2013\Projects\Excepciones\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\obj\Debug\Excepciones.Form1.resources
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\obj\Debug\Excepciones.Properties.Resources.resources
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.GenerateResource.cache
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\Navegador\Desktop\Excepciones\Excepciones\Excepciones\obj\Debug\Excepciones.pdb
