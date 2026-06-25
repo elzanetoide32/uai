@@ -1,0 +1,6 @@
+C:\Users\lcgbr\source\repos\Parcial_edificio\Clases\bin\Debug\Clases.dll
+C:\Users\lcgbr\source\repos\Parcial_edificio\Clases\bin\Debug\Clases.pdb
+C:\Users\lcgbr\source\repos\Parcial_edificio\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\Parcial_edificio\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\Parcial_edificio\Clases\obj\Debug\Clases.dll
+C:\Users\lcgbr\source\repos\Parcial_edificio\Clases\obj\Debug\Clases.pdb

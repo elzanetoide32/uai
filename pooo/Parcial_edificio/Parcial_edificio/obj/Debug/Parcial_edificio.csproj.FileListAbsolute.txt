@@ -1,0 +1,14 @@
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\bin\Debug\Parcial_edificio.exe.config
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\bin\Debug\Parcial_edificio.exe
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\bin\Debug\Parcial_edificio.pdb
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\bin\Debug\Clases.dll
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\bin\Debug\Clases.pdb
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_edificio.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_edificio.Form1.resources
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_edificio.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_edificio.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_edificio.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_.70FCA5D7.Up2Date
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_edificio.exe
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_edificio.pdb
+C:\Users\lcgbr\source\repos\Parcial_edificio\Parcial_edificio\obj\Debug\Parcial_edificio.exe.config
