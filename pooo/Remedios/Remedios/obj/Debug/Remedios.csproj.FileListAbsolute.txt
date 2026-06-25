@@ -1,0 +1,14 @@
+C:\Users\lcgbr\source\repos\Remedios\Remedios\bin\Debug\Remedios.exe.config
+C:\Users\lcgbr\source\repos\Remedios\Remedios\bin\Debug\Remedios.exe
+C:\Users\lcgbr\source\repos\Remedios\Remedios\bin\Debug\Remedios.pdb
+C:\Users\lcgbr\source\repos\Remedios\Remedios\bin\Debug\clases.dll
+C:\Users\lcgbr\source\repos\Remedios\Remedios\bin\Debug\clases.pdb
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.csproj.Up2Date
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.exe
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.pdb
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.exe.config
+C:\Users\lcgbr\source\repos\Remedios\Remedios\obj\Debug\Remedios.Form1.resources

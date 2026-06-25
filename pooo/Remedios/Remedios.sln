@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remedios", "Remedios\Remedios.csproj", "{6A1A4924-575C-4BF0-A837-3C34BCAEE992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clases", "clases\clases.csproj", "{5AC8D2B7-A9D9-4F6E-A20E-48B99F06B71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1A4924-575C-4BF0-A837-3C34BCAEE992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1A4924-575C-4BF0-A837-3C34BCAEE992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1A4924-575C-4BF0-A837-3C34BCAEE992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1A4924-575C-4BF0-A837-3C34BCAEE992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC8D2B7-A9D9-4F6E-A20E-48B99F06B71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC8D2B7-A9D9-4F6E-A20E-48B99F06B71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC8D2B7-A9D9-4F6E-A20E-48B99F06B71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC8D2B7-A9D9-4F6E-A20E-48B99F06B71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E31B73-6D9A-4D41-8725-3E63C92A23E8}
+	EndGlobalSection
+EndGlobal
