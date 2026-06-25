@@ -1,0 +1,10 @@
+C:\Users\leona\source\repos\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\leona\source\repos\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\leona\source\repos\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\leona\source\repos\Eventos\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\leona\source\repos\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\leona\source\repos\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\leona\source\repos\Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\leona\source\repos\Eventos\Eventos\obj\Debug\Eventos.pdb
