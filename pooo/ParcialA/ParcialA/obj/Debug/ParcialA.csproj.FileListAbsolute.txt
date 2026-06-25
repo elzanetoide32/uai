@@ -1,0 +1,11 @@
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\obj\Debug\ParcialA.csproj.AssemblyReference.cache
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\obj\Debug\ParcialA.Form1.resources
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\obj\Debug\ParcialA.Properties.Resources.resources
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\obj\Debug\ParcialA.csproj.GenerateResource.cache
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\obj\Debug\ParcialA.csproj.CoreCompileInputs.cache
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\bin\Debug\ParcialA.exe.config
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\bin\Debug\ParcialA.exe
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\bin\Debug\ParcialA.pdb
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\obj\Debug\ParcialA.exe
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\obj\Debug\ParcialA.pdb
+C:\Users\lcgbr\source\repos\ParcialA\ParcialA\obj\Debug\ParcialA.exe.config
